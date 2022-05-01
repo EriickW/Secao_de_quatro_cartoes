@@ -1,4 +1,4 @@
-# Componente de Quatro Card :card_index:
+# Seção de Quatro Cartoes :card_index:
 
 Desafio do site Front-end mentor
 
@@ -17,7 +17,7 @@ Desafio do site Front-end mentor
 
 - Mobile: 375px
 
-<img align="center" src="screenshot/mobile-design.jpg">
+<div align="center" ><img src="screenshot/mobile-design.jpg"></div>
 
 ## Colors
 
