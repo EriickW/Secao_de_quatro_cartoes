@@ -6,6 +6,7 @@ Desafio do site Front-end mentor
 
 - [Meu perfil](https://github.com/EriickW)
 - [Desafio](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK)
+- [Ver desafio pronto](https://eriickw.github.io/Secao_de_quatro_cartoes/)
 
 ## Layout
 
